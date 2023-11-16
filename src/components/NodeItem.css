@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Montserrat:ital@1&family=Sacramento&family=Ubuntu:wght@400;500&family=Varela+Round&display=swap');
+
+.col-md-3{
+    background-color: rgb(120, 183, 185);
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.card{
+    border: 2px solid black;
+    background-color: rgb(158, 213, 215);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-text{
+    padding: 6px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Montserrat:ital@1&family=Sacramento&family=Ubuntu:wght@400;500&family=Varela+Round&display=swap');
+
+body{
+    background-color: rgb(190, 233, 239);
+}
+
+.Head{
+    display: inline-block;
+    padding: 6px;
+    /* background-color: rgb(74, 202, 204); */
+    border-radius: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.form-label{
+    /* border: 1px solid black; */
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 500;
+    background-color: rgb(120, 183, 185);
+    width: 16%;
+}
+
+.form-control{
+    border: 1px solid black;
+    background-color: rgb(158, 213, 215);
+}

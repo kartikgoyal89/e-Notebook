@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Montserrat:ital@1&family=Sacramento&family=Ubuntu:wght@400;500&family=Varela+Round&display=swap');
+
+#exampleModalLabel{
+    background-color: rgb(141, 196, 235);
+    border: 1px solid rgb(97, 176, 230);
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.row{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.ctrl{
+    width: 20%;
+}
